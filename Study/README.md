@@ -18,9 +18,9 @@
 
 | 주차 | 커널 주제 | 1회차 | 2회차 | 3회차 | 리뷰/노트 |
 |------|-----------|-------|-------|-------|------------|
-| 1주차 | Titanic EDA & ML (6월 4일 ~ 6월 12일) | ✅ | ✅ | ✅ | [노트 보기](./week1/note.md) |
-| 2주차 | Porto Seguro’s Safe Driver Prediction | ⬜ | ⬜ | ⬜ | - |
-| 3주차 | Home Credit Default Risk | ⬜ | ⬜ | ⬜ | - |
+| 1주차 | Titanic Tutorial (6월 4일 ~ 6월 12일) | ✅ | ✅ | ✅ | [노트 보기](./[Level1/titanic-tutorial-1-1-eda.ipynb) |
+| 2주차 | EDA To Prediction | ⬜ | ⬜ | ⬜ | - |
+| 3주차 | Titanic Top 4% with ensemble modeling | ⬜ | ⬜ | ⬜ | - |
 | ... | ... | ... | ... | ... | ... |
 
 
